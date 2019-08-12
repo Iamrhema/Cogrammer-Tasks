@@ -1,0 +1,55 @@
+#head{
+  text-align: center;
+}
+#logo{
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-right: 42%;
+}
+#welcome{
+  text-align: center;
+  margin-top: 200px;
+}
+
+@keyframes change-background {
+  0% {
+    background: #69b7eb;
+  }
+  50% {
+    background: #b3dbd3;
+  }
+  100% {
+    background: #f4d6db;
+  }
+}
+
+body {
+  animation: change-background 4s linear infinite;
+}
+#content{
+  margin-top: 150px;
+  
+
+}
+#allContent{
+  /* text-align: center; */
+  width: 75%;
+  margin-left: 14%;
+}
+.guns{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.gun{
+  width: 400px;
+  padding: 0 15px; 
+  
+}
+.products{
+
+  width: 500px;
+  float: right;
+  margin-right: 300px;
+}
