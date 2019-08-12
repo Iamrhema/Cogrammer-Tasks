@@ -1,0 +1,42 @@
+#Profile{
+  widows: 150px;
+  height: 150px;
+  border-radius: 88%;
+  margin-bottom: 20px;
+}
+
+#Intro{
+  width:27%;
+  margin-left: 50px;
+  margin-top: 50px;
+  float: left;
+
+}
+#Content{
+  margin-top: 50px;
+  width:68%;
+  float: right;
+}
+#devName{
+  color:  #777;
+}
+*{
+  list-style-type: none
+}
+#gmail{
+ margin-left:10px;
+}
+h2{
+  height: 30px;;
+}
+.ref{
+  margin-top: 50px;
+}
+
+#Profilehead{
+  margin-bottom: 50px;
+}
+
+#Icons{
+  text-align: left;
+}
